@@ -1,0 +1,208 @@
+=====================================
+Round 1
+Query 'musk'
+
+Result 1
+Relevant: Yes
+[
+title=Elon Musk: Dieselgate Proves It's Time to Go Electric
+link=http://gizmodo.com/elon-musk-dieselgate-proves-its-time-to-go-electric-1733163688
+description=Of course, that new technology Musk is referring to here is electric cars. But despite his obvious bias on the matter, the man may be onto something.
+
+]
+
+
+Result 2
+Relevant: Yes
+[
+title=Elon Musk - Wikipedia, the free encyclopedia
+link=http://en.wikipedia.org/wiki/Elon_Musk
+description=Elon Reeve Musk (born June 28, 1971) is a South African-born Canadian-American business magnate, engineer, inventor and investor. [14] He is the CEO and CTO of SpaceX ...
+
+]
+
+
+Result 3
+Relevant: Yes
+[
+title=Elon Musk: Climate Change Will Bring Worse Refugee Crisis
+link=http://time.com/4050048/elon-musk-climate-change/
+description=Climate change could create a refugee crisis far worse than the one currently unfolding in Europe, Elon Musk warned Thursday. The Tesla CEO gave a speech in Berlin in ...
+
+]
+
+
+Result 4
+Relevant: No
+[
+title=Musk - Wikipedia, the free encyclopedia
+link=http://en.wikipedia.org/wiki/Musk
+description=Musk is a class of aromatic substances commonly used as base notes in perfumery. They include glandular secretions from animals such as the musk deer, numerous plants ...
+
+]
+
+
+Result 5
+Relevant: Yes
+[
+title=Elon Musk (@elonmusk) | Twitter
+link=https://twitter.com/ElonMusk
+description=Elon Musk-backed SolarCity claims to have built industry's most efficient solar panel http://www. theverge.com/2015/10/2/9439 173/elon-musk-backed-solarcity-claims-to ...
+
+]
+
+
+Result 6
+Relevant: No
+[
+title=MUSK
+link=https://www.facebook.com/MUSK.DISCO
+description=MUSK are Lennart Döring and Gerald Zollner, who met in Berlin's nightlife back in 2009. Soon after they went through the history of dancemusic, ...
+
+]
+
+
+Result 7
+Relevant: Yes
+[
+title=Elon Musk - Forbes
+link=http://www.forbes.com/profile/elon-musk/
+description=Elon Musk's meteoric ride hit a speed bump in June when one of his SpaceX rockets, on its way to resupply the International Space Station, exploded two minutes into ...
+
+]
+
+
+Result 8
+Relevant: No
+[
+title=Musk | Define Musk at Dictionary.com
+link=http://dictionary.reference.com/browse/musk
+description=noun 1. a substance secreted in a glandular sac under the skin of the abdomen of the male musk deer, having a strong odor, and used in perfumery. 2. an artificial ...
+
+]
+
+
+Result 9
+Relevant: No
+[
+title=Musk perfume ingredient, Musk fragrance and essential oils ...
+link=http://www.fragrantica.com/notes/Musk-4.html
+description=Musk is a whole class of fragrant substances used as base notes in perfumery. This wonderful animalistic note creates a groundwork on which the rest of the aromatic ...
+
+]
+
+
+Result 10
+Relevant: No
+[
+title=Musk | Definition of musk by Merriam-Webster
+link=http://www.merriam-webster.com/dictionary/musk
+description=Definition of MUSK for Kids: a strong-smelling material that is used in perfumes and is obtained from a gland of an Asian deer (musk deer) or is prepared artificially
+
+]
+
+Precision: 0.5
+=====================================
+Round 2
+Query 'musk elon crisis'
+
+Result 1
+Relevant: Yes
+[
+title=Elon Musk on refugee crisis, climate change - Tech Insider
+link=http://www.techinsider.io/elon-musk-on-refugee-crisis-climate-change-2015-9
+description=Billionaire visionary Elon Musk painted a bleak picture of the future on Wednesday when he said the current refugee crisis is just a glimpse of what we can expect if ...
+
+]
+
+
+Result 2
+Relevant: Yes
+[
+title=Elon Musk: Climate Change Will Bring Worse Refugee Crisis
+link=http://time.com/4050048/elon-musk-climate-change/
+description=Climate change could create a refugee crisis far worse than the one currently unfolding in Europe, Elon Musk warned Thursday. The Tesla CEO gave a speech in Berlin in ...
+
+]
+
+
+Result 3
+Relevant: Yes
+[
+title=Elon Musk Says Climate Change Refugees Will Dwarf Current ...
+link=http://www.huffingtonpost.com/entry/elon-musk-in-berlin_560484dee4b08820d91c5f5f
+description=Elon Musk, co-founder of electric carmaker Tesla Motors, warned on Thursday that climate change will spark a refugee crisis of catastrophic proportions if ...
+
+]
+
+
+Result 4
+Relevant: Yes
+[
+title=Elon Musk says the current refugee crisis is just a ...
+link=http://www.businessinsider.com.au/elon-musk-on-refugee-crisis-climate-change-2015-9/
+description=Billionaire visionary Elon Musk painted a bleak picture of the future on Wednesday when he said the current refugee crisis is just a glimpse of what we can expect if ...
+
+]
+
+
+Result 5
+Relevant: Yes
+[
+title=Quinn: Tesla's Elon Musk needs to delegate crisis ...
+link=http://www.mercurynews.com/michelle-quinn/ci_24606245/quinn-teslas-elon-musk-needs-delegate-crisis-management
+description=Tesla's Elon Musk is cast from the same mold as other Valley chief executives whose names and faces are part of the companies' identities. But Musk, if he ...
+
+]
+
+
+Result 6
+Relevant: Yes
+[
+title=Tesla CEO Elon Musk: Current Refugee Crisis Just Small ...
+link=http://cleantechnica.com/2015/09/29/tesla-ceo-elon-musk-current-refugee-crisis-just-small-taste-climate-change-bring/
+description=The nearly always quote-worthy CEO of Tesla, Elon Musk, recently made some interesting comments on the ongoing “refugee crisis” in Europe, the ...
+
+]
+
+
+Result 7
+Relevant: Yes
+[
+title=Elon Musk and How Not to Handle a PR Crisis | Nicholas ...
+link=https://www.linkedin.com/pulse/20130215030225-7070331-elon-musk-and-how-not-to-handle-a-pr-crisis
+description=Elon Musk and How Not to Handle a PR Crisis Nicholas Thompson Influencer
+
+]
+
+
+Result 8
+Relevant: Yes
+[
+title=Elon Musk - Wikipedia, the free encyclopedia
+link=http://en.wikipedia.org/wiki/Elon_Musk
+description=Elon Reeve Musk (born June 28, 1971) is a South African-born Canadian-American business magnate, engineer, inventor and investor. [14] He is the CEO and CTO of SpaceX ...
+
+]
+
+
+Result 9
+Relevant: Yes
+[
+title=Virtual reality is giving Elon Musk an existential crisis ...
+link=http://www.techradar.com/news/gaming/virtual-reality-is-giving-elon-musk-an-existential-crisis-1269817
+description=Virtual reality is giving Elon Musk an existential crisis | Musk sees an exciting future for the Oculus Rift, he's just not sure if the future is actually real.
+
+]
+
+
+Result 10
+Relevant: Yes
+[
+title=Tesla’s Elon Musk Uses Crisis In Ukraine To Tout His ...
+link=http://sanfrancisco.cbslocal.com/2014/03/06/teslas-elon-musk-uses-crisis-in-ukraine-to-tout-his-spacex-company/
+description=WASHINGTON (KCBS) – Tesla CEO Elon Musk took to Capitol Hill on Wednesday, telling lawmakers that the U.S. should stop relying on Russia for its space ...
+
+]
+
+Precision: 1.0

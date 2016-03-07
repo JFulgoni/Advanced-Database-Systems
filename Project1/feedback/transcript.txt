@@ -1,0 +1,104 @@
+=====================================
+Round 1
+Query 'gates'
+
+Result 1
+Relevant: Yes
+[
+title=Gates Corporation
+link=http://www.gates.com/
+description=Gates Corporation is Powering Progress™ in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+
+]
+
+
+Result 2
+Relevant: Yes
+[
+title=Driveway Gates | Automatic Gates | Electric Gates
+link=http://www.gatecrafters.com/design_your_gates.aspx
+description=Driveway Gates - Automatic Gates The high-quality driveway gates from GateCrafters.com come in a wide variety of options to ...
+
+]
+
+
+Result 3
+Relevant: Yes
+[
+title=Amazon.com: gates
+link=http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Agates
+description=Product Features Expands to become a 192-inch wall mounted gate or free standing barrier
+
+]
+
+
+Result 4
+Relevant: Yes
+[
+title=Logic gate - Wikipedia, the free encyclopedia
+link=https://en.wikipedia.org/wiki/Logic_gate
+description=In electronics, a logic gate is an idealized or physical device implementing a Boolean function; that is, it performs a logical operation on one or more logical ...
+
+]
+
+
+Result 5
+Relevant: Yes
+[
+title=Bill Gates - Wikipedia, the free encyclopedia
+link=https://en.wikipedia.org/wiki/Bill_Gates
+description=William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, and computer programmer. [2] [3] In 1975, Gates and ...
+
+]
+
+
+Result 6
+Relevant: Yes
+[
+title=Gates Europe - Gates Corporation
+link=http://ww2.gates.com/europe/
+description=Energy, Exploration & Extraction. Infrastructure & Agriculture. Transportation
+
+]
+
+
+Result 7
+Relevant: Yes
+[
+title=Fence Gates: Shop For Fence Parts at Sears
+link=http://www.sears.com/lawn-garden-fencing-gates/b-1038936
+description=Sears carries fence gates in a wide range of styles and finishes to accent your home?s exterior and landscape. Find fence gates to fit your needs today.
+
+]
+
+
+Result 8
+Relevant: Yes
+[
+title=Bill & Melinda Gates Foundation
+link=http://www.gatesfoundation.org/
+description=The Gates Foundation’s effort to eradicate polio offers the chance to protect millions of children from paralysis forever.
+
+]
+
+
+Result 9
+Relevant: Yes
+[
+title=Gates | Define Gates at Dictionary.com
+link=http://dictionary.reference.com/browse/gates
+description=noun 1. Horatio, 1728–1806, American Revolutionary general, born in England. 2. William ("Bill") born 1956, U.S. entrepreneur.
+
+]
+
+
+Result 10
+Relevant: Yes
+[
+title=Gates Bar B.Q.
+link=http://www.gatesbbq.com/
+description=With the tantalizing hickory barbecue smell drawing the customer through the ranch-style doors, he is immediately greeted.
+
+]
+
+Precision: 1.0

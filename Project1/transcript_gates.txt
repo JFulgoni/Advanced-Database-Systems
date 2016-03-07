@@ -1,0 +1,208 @@
+=====================================
+Round 1
+Query 'gates'
+
+Result 1
+Relevant: No
+[
+title=Gates Corporation
+link=http://www.gates.com/
+description=Gates Corporation is Powering Progress™ in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+
+]
+
+
+Result 2
+Relevant: No
+[
+title=Driveway Gates | Automatic Gates | Electric Gates
+link=http://www.gatecrafters.com/design_your_gates.aspx
+description=Driveway Gates - Automatic Gates The high-quality driveway gates from GateCrafters.com come in a wide variety of options to ...
+
+]
+
+
+Result 3
+Relevant: Yes
+[
+title=Bill Gates - Wikipedia, the free encyclopedia
+link=http://en.wikipedia.org/wiki/Bill_Gates
+description=William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor. In 1975, Gates co ...
+
+]
+
+
+Result 4
+Relevant: No
+[
+title=Gates - Wikipedia, the free encyclopedia
+link=http://en.wikipedia.org/wiki/Gates
+description=Gates may refer to: Contents 1 People 2 Places 3 Art and entertainment 4 See also People Gates (surname) Gates Brown, American baseball player Gates McFadden ...
+
+]
+
+
+Result 5
+Relevant: No
+[
+title=gates
+link=https://www.facebook.com/gatesnj
+description=gates. 13,913 likes · 194 talking about this. www.gatesnj.com. Facebook logo. Email or Phone: Password: Keep me logged in. Forgot your password? Sign Up. gates
+
+]
+
+
+Result 6
+Relevant: No
+[
+title=Amazon.com: gates
+link=http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Agates
+description=Product Features Expands to become a 192-inch wall mounted gate or free standing barrier
+
+]
+
+
+Result 7
+Relevant: No
+[
+title=Gates Belts, Hose, & Hydraulics Catalogs | Gates Corporation
+link=http://www.gates.com/catalogs-and-resources/catalogs
+description=Gate is a leading global, industrial, diversified company. View our catalogs to learn more about our belts, hose, & hydraulic products.
+
+]
+
+
+Result 8
+Relevant: No
+[
+title=Gates Bar B.Q.
+link=http://www.gatesbbq.com/
+description=With the tantalizing hickory barbecue smell drawing the customer through the ranch-style doors, he is immediately greeted.
+
+]
+
+
+Result 9
+Relevant: Yes
+[
+title=Bill & Melinda Gates Foundation
+link=http://www.gatesfoundation.org/
+description=The Gates Foundation’s effort to eradicate polio offers the chance to protect millions of children from paralysis forever.
+
+]
+
+
+Result 10
+Relevant: Yes
+[
+title=Bill Gates - Forbes
+link=http://www.forbes.com/profile/bill-gates/
+description=Forty years ago, when Bill Gates and Paul Allen launched Microsoft, Gates' goal of getting a computer on every person's desk seemed audacious.
+
+]
+
+Precision: 0.3
+=====================================
+Round 2
+Query 'gates bill computer'
+
+Result 1
+Relevant: Yes
+[
+title=Bill Gates - Wikipedia, the free encyclopedia
+link=http://en.wikipedia.org/wiki/Bill_Gates
+description=William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor.
+
+]
+
+
+Result 2
+Relevant: Yes
+[
+title=Bill Gates - Business Leader, Entrepreneur, Philanthropist ...
+link=http://www.biography.com/people/bill-gates-9307520
+description=Entrepreneur Bill Gates founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.
+
+]
+
+
+Result 3
+Relevant: Yes
+[
+title=Bill Gates | biography - American computer programmer ...
+link=http://www.britannica.com/biography/Bill-Gates
+description=American computer programmer and entrepreneur who cofounded Microsoft Corporation, the world’s largest personal-computer software company. Gates wrote his first ...
+
+]
+
+
+Result 4
+Relevant: Yes
+[
+title=Bill Gates - Computer Hope
+link=http://www.computerhope.com/people/bill_gates.htm
+description=Short biography of Bill Gates, the founder of Microsoft.
+
+]
+
+
+Result 5
+Relevant: Yes
+[
+title=Bill Gates - Forbes
+link=http://www.forbes.com/profile/bill-gates/
+description=Forty years ago, when Bill Gates and Paul Allen launched Microsoft, Gates' goal of getting a computer on every person's desk seemed audacious.
+
+]
+
+
+Result 6
+Relevant: Yes
+[
+title=Bill Gates | Computer History Museum
+link=http://www.computerhistory.org/honorary/Bill,Gates/
+description=William (Bill) H. Gates is chairman of Microsoft Corporation, the worldwide leader in software, services and solutions that help people and businesses realize their ...
+
+]
+
+
+Result 7
+Relevant: Yes
+[
+title=Bill Gates- The birth of the computer | Lori Weintrob
+link=http://faculty.wagner.edu/lori-weintrob/bill-gates-the-birth-of-the-computer/
+description=It’s fine to celebrate success but it is more important to heed the lessons of failure.- Bill Gates ...
+
+]
+
+
+Result 8
+Relevant: Yes
+[
+title=Bill Gates Says We're Living in a 'Golden Age of Computer ...
+link=http://www.eweek.com/cloud/bill-gates-says-were-living-in-a-golden-age-of-computer-science
+description=Going forward, Gates envisions that progress in user interfaces, modeling, machine learning and other computing disciplines will result in a "powerful ...
+
+]
+
+
+Result 9
+Relevant: Yes
+[
+title=Bill Gates - Biography - About.com Money
+link=http://inventors.about.com/od/gstartinventors/a/Bill_Gates.htm
+description=Bill Gates came from a family of entrepreneurship and high-spirited liveliness. William Henry Gates III was born in Seattle, Washington on October 28th, 1955.
+
+]
+
+
+Result 10
+Relevant: Yes
+[
+title=Top 5 Myths About Bill Gates - HowStuffWorks
+link=http://www.howstuffworks.com/tech-myths/5-myths-about-bill-gates3.htm
+description=3: Bill Gates Said 640K RAM Was Enough -- for Anyone - Do you know the facts from the myths about Bill Gates? Take a look at this list of five myths about Bill Gates ...
+
+]
+
+Precision: 1.0
