@@ -1,0 +1,326 @@
+
+==Frequent itemsets (min_sup = 1.00%)
+['Below 50K'] , 52.29%
+['Above 50K'] , 47.71%
+['N.Y.C. TRANSIT AUTHORITY'] , 20.95%
+['POLICE DEPARTMENT'] , 19.08%
+['$70K'] , 18.18%
+['$70K', 'Above 50K'] , 18.18%
+['$00K'] , 16.58%
+['$00K', 'Below 50K'] , 16.58%
+['N.Y.C. TRANSIT AUTHORITY', 'Above 50K'] , 16.42%
+['$60K'] , 15.02%
+['$60K', 'Above 50K'] , 15.02%
+['$40K'] , 12.94%
+['$40K', 'Below 50K'] , 12.94%
+['$30K'] , 11.51%
+['$30K', 'Below 50K'] , 11.51%
+['POLICE DEPARTMENT', 'Above 50K'] , 9.99%
+['$50K'] , 9.87%
+['$50K', 'Below 50K'] , 9.87%
+['POLICE DEPARTMENT', 'Below 50K'] , 9.08%
+['70210'] , 8.10%
+['POLICE DEPARTMENT', '70210'] , 8.10%
+['N.Y.C. TRANSIT AUTHORITY', '$60K'] , 8.05%
+['N.Y.C. TRANSIT AUTHORITY', '$60K', 'Above 50K'] , 8.05%
+['DEPARTMENT OF CITYWIDE ADM'] , 5.63%
+['POLICE DEPARTMENT', '$70K'] , 5.53%
+['POLICE DEPARTMENT', '$70K', 'Above 50K'] , 5.53%
+['FIRE DEPARTMENT'] , 5.49%
+['HRA/DEPARTMENT OF SOCIAL S'] , 5.49%
+['DEPARTMENT OF CITYWIDE ADM', 'Below 50K'] , 5.42%
+['N.Y.C. TRANSIT AUTHORITY', '$70K'] , 5.35%
+['N.Y.C. TRANSIT AUTHORITY', '$70K', 'Above 50K'] , 5.35%
+['$80K'] , 5.21%
+['$80K', 'Above 50K'] , 5.21%
+['70210', '$70K'] , 5.09%
+['70210', 'Above 50K'] , 5.09%
+['POLICE DEPARTMENT', '70210', 'Above 50K'] , 5.09%
+['POLICE DEPARTMENT', '70210', '$70K'] , 5.09%
+['70210', '$70K', 'Above 50K'] , 5.09%
+['POLICE DEPARTMENT', '70210', '$70K', 'Above 50K'] , 5.09%
+['DEPARTMENT OF CITYWIDE ADM', '$00K'] , 5.01%
+['DEPARTMENT OF CITYWIDE ADM', '$00K', 'Below 50K'] , 5.01%
+['N.Y.C. TRANSIT AUTHORITY', 'Below 50K'] , 4.52%
+['DEPARTMENT OF EDUCATION'] , 4.42%
+['HRA/DEPARTMENT OF SOCIAL S', 'Below 50K'] , 4.37%
+['$90K'] , 4.24%
+['$90K', 'Above 50K'] , 4.24%
+['N.Y.C. HOUSING AUTHORITY'] , 4.23%
+['DEPARTMENT OF CORRECTION'] , 3.92%
+['DEPARTMENT OF SANITATION'] , 3.60%
+['FIRE DEPARTMENT', 'Above 50K'] , 3.56%
+['POLICE DEPARTMENT', '$40K'] , 3.56%
+['POLICE DEPARTMENT', '$40K', 'Below 50K'] , 3.56%
+['N.Y.C. HOUSING AUTHORITY', 'Below 50K'] , 3.51%
+['POLICE DEPARTMENT', '$30K'] , 3.37%
+['POLICE DEPARTMENT', '$30K', 'Below 50K'] , 3.37%
+['12702'] , 3.27%
+['12702', 'Below 50K'] , 3.27%
+['12702', '$00K'] , 3.27%
+['DEPARTMENT OF CITYWIDE ADM', '12702'] , 3.27%
+['12702', '$00K', 'Below 50K'] , 3.27%
+['DEPARTMENT OF CITYWIDE ADM', '12702', 'Below 50K'] , 3.27%
+['DEPARTMENT OF CITYWIDE ADM', '12702', '$00K'] , 3.27%
+['DEPARTMENT OF CITYWIDE ADM', '12702', '$00K', 'Below 50K'] , 3.27%
+['70410'] , 3.04%
+['DEPARTMENT OF CORRECTION', '70410'] , 3.04%
+['70210', 'Below 50K'] , 3.01%
+['POLICE DEPARTMENT', '70210', 'Below 50K'] , 3.01%
+['DEPARTMENT OF EDUCATION', 'Below 50K'] , 2.65%
+['DEPARTMENT OF CORRECTION', 'Above 50K'] , 2.61%
+['70310'] , 2.60%
+['FIRE DEPARTMENT', '70310'] , 2.60%
+['DEPARTMENT OF PARKS & RECR'] , 2.57%
+['70210', '$40K'] , 2.49%
+['70210', '$40K', 'Below 50K'] , 2.49%
+['POLICE DEPARTMENT', '70210', '$40K'] , 2.49%
+['POLICE DEPARTMENT', '70210', '$40K', 'Below 50K'] , 2.49%
+['ADMINISTRATION FOR CHILDRE'] , 2.35%
+['DEPARTMENT OF SANITATION', 'Above 50K'] , 2.32%
+['N.Y.C. TRANSIT AUTHORITY', '$50K'] , 2.29%
+['N.Y.C. TRANSIT AUTHORITY', '$50K', 'Below 50K'] , 2.29%
+['FIRE DEPARTMENT', '$70K'] , 2.27%
+['FIRE DEPARTMENT', '$70K', 'Above 50K'] , 2.27%
+['70112'] , 2.26%
+['DEPARTMENT OF SANITATION', '70112'] , 2.26%
+['DEPARTMENT OF CORRECTION', '$70K'] , 2.24%
+['DEPARTMENT OF CORRECTION', '$70K', 'Above 50K'] , 2.24%
+['70310', '$70K'] , 2.21%
+['70310', 'Above 50K'] , 2.21%
+['70310', '$70K', 'Above 50K'] , 2.21%
+['FIRE DEPARTMENT', '70310', 'Above 50K'] , 2.21%
+['FIRE DEPARTMENT', '70310', '$70K'] , 2.21%
+['FIRE DEPARTMENT', '70310', '$70K', 'Above 50K'] , 2.21%
+['DEPARTMENT OF HEALTH AND M'] , 2.12%
+['DEPARTMENT OF PARKS & RECR', 'Below 50K'] , 2.09%
+['70410', '$70K'] , 2.08%
+['70410', 'Above 50K'] , 2.08%
+['DEPARTMENT OF CORRECTION', '70410', 'Above 50K'] , 2.08%
+['DEPARTMENT OF CORRECTION', '70410', '$70K'] , 2.08%
+['70410', '$70K', 'Above 50K'] , 2.08%
+['DEPARTMENT OF CORRECTION', '70410', '$70K', 'Above 50K'] , 2.08%
+['DEPARTMENT OF ENVIRONMENTA'] , 1.99%
+['FIRE DEPARTMENT', 'Below 50K'] , 1.93%
+['HRA/DEPARTMENT OF SOCIAL S', '$40K'] , 1.91%
+['HRA/DEPARTMENT OF SOCIAL S', '$40K', 'Below 50K'] , 1.91%
+['60817'] , 1.85%
+['60817', 'Below 50K'] , 1.85%
+['POLICE DEPARTMENT', '60817'] , 1.85%
+['60817', '$30K'] , 1.85%
+['POLICE DEPARTMENT', '60817', 'Below 50K'] , 1.85%
+['POLICE DEPARTMENT', '60817', '$30K'] , 1.85%
+['60817', '$30K', 'Below 50K'] , 1.85%
+['POLICE DEPARTMENT', '60817', '$30K', 'Below 50K'] , 1.85%
+['609'] , 1.83%
+['N.Y.C. TRANSIT AUTHORITY', '609'] , 1.83%
+['325'] , 1.82%
+['N.Y.C. TRANSIT AUTHORITY', '325'] , 1.82%
+['DEPARTMENT OF TRANSPORTATI'] , 1.79%
+['DEPARTMENT OF EDUCATION', 'Above 50K'] , 1.78%
+['10251'] , 1.76%
+['10251', 'Below 50K'] , 1.75%
+['10209'] , 1.75%
+['10209', 'Below 50K'] , 1.75%
+['10209', '$00K'] , 1.75%
+['10209', '$00K', 'Below 50K'] , 1.75%
+['POLICE DEPARTMENT', '$80K'] , 1.70%
+['POLICE DEPARTMENT', '$80K', 'Above 50K'] , 1.70%
+['N.Y.C. TRANSIT AUTHORITY', '$40K'] , 1.68%
+['N.Y.C. TRANSIT AUTHORITY', '$40K', 'Below 50K'] , 1.68%
+['DEPARTMENT OF SANITATION', '$60K'] , 1.67%
+['DEPARTMENT OF SANITATION', '$60K', 'Above 50K'] , 1.67%
+['56057'] , 1.66%
+['56057', 'Below 50K'] , 1.65%
+['70112', 'Above 50K'] , 1.64%
+['70112', '$60K'] , 1.64%
+['70112', '$60K', 'Above 50K'] , 1.64%
+['DEPARTMENT OF SANITATION', '70112', 'Above 50K'] , 1.64%
+['DEPARTMENT OF SANITATION', '70112', '$60K'] , 1.64%
+['DEPARTMENT OF SANITATION', '70112', '$60K', 'Above 50K'] , 1.64%
+['$110K'] , 1.64%
+['$110K', 'Above 50K'] , 1.64%
+['10124'] , 1.60%
+['ADMINISTRATION FOR CHILDRE', 'Below 50K'] , 1.57%
+['70235'] , 1.55%
+['70235', 'Above 50K'] , 1.55%
+['POLICE DEPARTMENT', '70235'] , 1.55%
+['POLICE DEPARTMENT', '70235', 'Above 50K'] , 1.55%
+['DEPARTMENT OF CITYWIDE ADM', '10209'] , 1.54%
+['DEPARTMENT OF CITYWIDE ADM', '10209', '$00K'] , 1.54%
+['DEPARTMENT OF CITYWIDE ADM', '10209', 'Below 50K'] , 1.54%
+['DEPARTMENT OF CITYWIDE ADM', '10209', '$00K', 'Below 50K'] , 1.54%
+['$100K'] , 1.52%
+['$100K', 'Above 50K'] , 1.52%
+['10102'] , 1.51%
+['10102', '$00K'] , 1.51%
+['10102', 'Below 50K'] , 1.51%
+['10102', '$00K', 'Below 50K'] , 1.51%
+['HRA/DEPARTMENT OF SOCIAL S', '$30K'] , 1.43%
+['HRA/DEPARTMENT OF SOCIAL S', '$30K', 'Below 50K'] , 1.43%
+['650'] , 1.41%
+['650', 'Above 50K'] , 1.41%
+['N.Y.C. TRANSIT AUTHORITY', '650'] , 1.41%
+['N.Y.C. TRANSIT AUTHORITY', '650', 'Above 50K'] , 1.41%
+['DEPARTMENT OF HEALTH AND M', 'Below 50K'] , 1.39%
+['10124', 'Below 50K'] , 1.39%
+['325', 'Above 50K'] , 1.39%
+['N.Y.C. TRANSIT AUTHORITY', '325', 'Above 50K'] , 1.39%
+['609', 'Above 50K'] , 1.37%
+['N.Y.C. TRANSIT AUTHORITY', '609', 'Above 50K'] , 1.37%
+['325', '$60K'] , 1.36%
+['325', '$60K', 'Above 50K'] , 1.36%
+['N.Y.C. TRANSIT AUTHORITY', '325', '$60K'] , 1.36%
+['N.Y.C. TRANSIT AUTHORITY', '325', '$60K', 'Above 50K'] , 1.36%
+['N.Y.C. HOUSING AUTHORITY', '$30K'] , 1.32%
+['N.Y.C. HOUSING AUTHORITY', '$30K', 'Below 50K'] , 1.32%
+['POLICE DEPARTMENT', '$90K'] , 1.32%
+['POLICE DEPARTMENT', '$90K', 'Above 50K'] , 1.32%
+['DEPARTMENT OF CORRECTION', 'Below 50K'] , 1.31%
+['$20K'] , 1.31%
+['DEPARTMENT OF TRANSPORTATI', 'Below 50K'] , 1.31%
+['$20K', 'Below 50K'] , 1.31%
+['DEPARTMENT OF ENVIRONMENTA', 'Below 50K'] , 1.31%
+['N.Y.C. TRANSIT AUTHORITY', '$80K'] , 1.29%
+['N.Y.C. TRANSIT AUTHORITY', '$80K', 'Above 50K'] , 1.29%
+['DEPARTMENT OF PARKS & RECR', '$00K'] , 1.29%
+['DEPARTMENT OF PARKS & RECR', '$00K', 'Below 50K'] , 1.29%
+['DEPARTMENT OF SANITATION', 'Below 50K'] , 1.27%
+['CUNY LAGUARDIA COMMUNITY C'] , 1.26%
+['609', '$60K'] , 1.24%
+['N.Y.C. TRANSIT AUTHORITY', '609', '$60K'] , 1.24%
+['609', '$60K', 'Above 50K'] , 1.24%
+['N.Y.C. TRANSIT AUTHORITY', '609', '$60K', 'Above 50K'] , 1.24%
+['CUNY KINGSBOROUGH COMMMUNI'] , 1.24%
+['813'] , 1.20%
+['N.Y.C. TRANSIT AUTHORITY', '813'] , 1.20%
+['CUNY MANHATTAN COMMUNITY C'] , 1.16%
+['CUNY KINGSBOROUGH COMMMUNI', 'Below 50K'] , 1.16%
+['N.Y.C. HOUSING AUTHORITY', '$00K'] , 1.14%
+['N.Y.C. HOUSING AUTHORITY', '$00K', 'Below 50K'] , 1.14%
+['HRA/DEPARTMENT OF SOCIAL S', 'Above 50K'] , 1.11%
+['CUNY LAGUARDIA COMMUNITY C', 'Below 50K'] , 1.11%
+['90645'] , 1.07%
+['N.Y.C. HOUSING AUTHORITY', '90645'] , 1.07%
+['90645', 'Below 50K'] , 1.07%
+['N.Y.C. HOUSING AUTHORITY', '90645', 'Below 50K'] , 1.07%
+['650', '$70K'] , 1.07%
+['650', '$70K', 'Above 50K'] , 1.07%
+['N.Y.C. TRANSIT AUTHORITY', '650', '$70K'] , 1.07%
+['N.Y.C. TRANSIT AUTHORITY', '650', '$70K', 'Above 50K'] , 1.07%
+['POLICE DEPARTMENT', '$00K'] , 1.06%
+['POLICE DEPARTMENT', '$00K', 'Below 50K'] , 1.06%
+['7021A'] , 1.06%
+['7021A', 'Above 50K'] , 1.06%
+['POLICE DEPARTMENT', '7021A'] , 1.06%
+['POLICE DEPARTMENT', '7021A', 'Above 50K'] , 1.06%
+['10104'] , 1.04%
+['HRA/DEPARTMENT OF SOCIAL S', '10104'] , 1.04%
+['10104', 'Below 50K'] , 1.04%
+['HRA/DEPARTMENT OF SOCIAL S', '10104', 'Below 50K'] , 1.04%
+['7021A', '$80K'] , 1.04%
+['7021A', '$80K', 'Above 50K'] , 1.04%
+['POLICE DEPARTMENT', '7021A', '$80K'] , 1.04%
+['POLICE DEPARTMENT', '7021A', '$80K', 'Above 50K'] , 1.04%
+['DEPARTMENT OF EDUCATION', '$60K'] , 1.01%
+['DEPARTMENT OF EDUCATION', '$60K', 'Above 50K'] , 1.01%
+['10251', '$30K'] , 1.01%
+['10251', '$30K', 'Below 50K'] , 1.01%
+['CUNY MANHATTAN COMMUNITY C', 'Below 50K'] , 1.00%
+
+==High-confidence association rules (min_conf= 42.00%)
+['10209'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 1.75%)
+['10209'] ==> ['$00K'] (Conf: 100.00% , Supp: 1.75%)
+['7021A'] ==> ['Above 50K'] (Conf: 100.00% , Supp: 1.06%)
+['12702'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 3.27%)
+['70235'] ==> ['Above 50K'] (Conf: 100.00% , Supp: 1.55%)
+['650'] ==> ['Above 50K'] (Conf: 100.00% , Supp: 1.41%)
+['$70K'] ==> ['Above 50K'] (Conf: 100.00% , Supp: 18.18%)
+['$50K'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 9.87%)
+['90645'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 1.07%)
+['60817'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 1.85%)
+['$110K'] ==> ['Above 50K'] (Conf: 100.00% , Supp: 1.64%)
+['$60K'] ==> ['Above 50K'] (Conf: 100.00% , Supp: 15.02%)
+['12702'] ==> ['$00K'] (Conf: 100.00% , Supp: 3.27%)
+['$100K'] ==> ['Above 50K'] (Conf: 100.00% , Supp: 1.52%)
+['10104'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 1.04%)
+['$90K'] ==> ['Above 50K'] (Conf: 100.00% , Supp: 4.24%)
+['$00K'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 16.58%)
+['$80K'] ==> ['Above 50K'] (Conf: 100.00% , Supp: 5.21%)
+['10102'] ==> ['$00K'] (Conf: 100.00% , Supp: 1.51%)
+['$30K'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 11.51%)
+['$40K'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 12.94%)
+['10102'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 1.51%)
+['$20K'] ==> ['Below 50K'] (Conf: 100.00% , Supp: 1.31%)
+['60817'] ==> ['$30K'] (Conf: 100.00% , Supp: 1.85%)
+['12702'] ==> ['$00K', 'Below 50K'] (Conf: 100.00% , Supp: 3.27%)
+['10209'] ==> ['$00K', 'Below 50K'] (Conf: 100.00% , Supp: 1.75%)
+['10102'] ==> ['$00K', 'Below 50K'] (Conf: 100.00% , Supp: 1.51%)
+['60817'] ==> ['$30K', 'Below 50K'] (Conf: 100.00% , Supp: 1.85%)
+['56057'] ==> ['Below 50K'] (Conf: 99.76% , Supp: 1.65%)
+['10251'] ==> ['Below 50K'] (Conf: 99.66% , Supp: 1.75%)
+['7021A'] ==> ['$80K'] (Conf: 98.48% , Supp: 1.04%)
+['7021A'] ==> ['$80K', 'Above 50K'] (Conf: 98.48% , Supp: 1.04%)
+['DEPARTMENT OF CITYWIDE ADM'] ==> ['Below 50K'] (Conf: 96.27% , Supp: 5.42%)
+['CUNY KINGSBOROUGH COMMMUNI'] ==> ['Below 50K'] (Conf: 93.54% , Supp: 1.16%)
+['DEPARTMENT OF CITYWIDE ADM'] ==> ['$00K'] (Conf: 88.99% , Supp: 5.01%)
+['DEPARTMENT OF CITYWIDE ADM'] ==> ['$00K', 'Below 50K'] (Conf: 88.99% , Supp: 5.01%)
+['CUNY LAGUARDIA COMMUNITY C'] ==> ['Below 50K'] (Conf: 87.80% , Supp: 1.11%)
+['10124'] ==> ['Below 50K'] (Conf: 87.09% , Supp: 1.39%)
+['CUNY MANHATTAN COMMUNITY C'] ==> ['Below 50K'] (Conf: 86.06% , Supp: 1.00%)
+['70310'] ==> ['$70K'] (Conf: 85.08% , Supp: 2.21%)
+['70310'] ==> ['Above 50K'] (Conf: 85.08% , Supp: 2.21%)
+['70310'] ==> ['$70K', 'Above 50K'] (Conf: 85.08% , Supp: 2.21%)
+['N.Y.C. HOUSING AUTHORITY'] ==> ['Below 50K'] (Conf: 82.89% , Supp: 3.51%)
+['DEPARTMENT OF PARKS & RECR'] ==> ['Below 50K'] (Conf: 81.23% , Supp: 2.09%)
+['HRA/DEPARTMENT OF SOCIAL S'] ==> ['Below 50K'] (Conf: 79.70% , Supp: 4.37%)
+['N.Y.C. TRANSIT AUTHORITY'] ==> ['Above 50K'] (Conf: 78.40% , Supp: 16.42%)
+['DEPARTMENT OF CORRECTION'] ==> ['70410'] (Conf: 77.61% , Supp: 3.04%)
+['325'] ==> ['Above 50K'] (Conf: 76.18% , Supp: 1.39%)
+['650'] ==> ['$70K'] (Conf: 75.71% , Supp: 1.07%)
+['650'] ==> ['$70K', 'Above 50K'] (Conf: 75.71% , Supp: 1.07%)
+['609'] ==> ['Above 50K'] (Conf: 74.92% , Supp: 1.37%)
+['325'] ==> ['$60K'] (Conf: 74.86% , Supp: 1.36%)
+['325'] ==> ['$60K', 'Above 50K'] (Conf: 74.86% , Supp: 1.36%)
+['DEPARTMENT OF TRANSPORTATI'] ==> ['Below 50K'] (Conf: 73.13% , Supp: 1.31%)
+['70112'] ==> ['Above 50K'] (Conf: 72.59% , Supp: 1.64%)
+['70112'] ==> ['$60K'] (Conf: 72.59% , Supp: 1.64%)
+['70112'] ==> ['$60K', 'Above 50K'] (Conf: 72.59% , Supp: 1.64%)
+['70410'] ==> ['$70K'] (Conf: 68.40% , Supp: 2.08%)
+['70410'] ==> ['Above 50K'] (Conf: 68.40% , Supp: 2.08%)
+['70410'] ==> ['$70K', 'Above 50K'] (Conf: 68.40% , Supp: 2.08%)
+['609'] ==> ['$60K'] (Conf: 67.91% , Supp: 1.24%)
+['609'] ==> ['$60K', 'Above 50K'] (Conf: 67.91% , Supp: 1.24%)
+['ADMINISTRATION FOR CHILDRE'] ==> ['Below 50K'] (Conf: 66.98% , Supp: 1.57%)
+['DEPARTMENT OF CORRECTION'] ==> ['Above 50K'] (Conf: 66.50% , Supp: 2.61%)
+['DEPARTMENT OF ENVIRONMENTA'] ==> ['Below 50K'] (Conf: 65.79% , Supp: 1.31%)
+['DEPARTMENT OF HEALTH AND M'] ==> ['Below 50K'] (Conf: 65.78% , Supp: 1.39%)
+['FIRE DEPARTMENT'] ==> ['Above 50K'] (Conf: 64.88% , Supp: 3.56%)
+['DEPARTMENT OF SANITATION'] ==> ['Above 50K'] (Conf: 64.57% , Supp: 2.32%)
+['DEPARTMENT OF SANITATION'] ==> ['70112'] (Conf: 62.90% , Supp: 2.26%)
+['70210'] ==> ['$70K'] (Conf: 62.85% , Supp: 5.09%)
+['70210'] ==> ['Above 50K'] (Conf: 62.85% , Supp: 5.09%)
+['70210'] ==> ['$70K', 'Above 50K'] (Conf: 62.85% , Supp: 5.09%)
+['DEPARTMENT OF EDUCATION'] ==> ['Below 50K'] (Conf: 59.84% , Supp: 2.65%)
+['DEPARTMENT OF CITYWIDE ADM'] ==> ['12702'] (Conf: 58.03% , Supp: 3.27%)
+['DEPARTMENT OF CITYWIDE ADM'] ==> ['12702', 'Below 50K'] (Conf: 58.03% , Supp: 3.27%)
+['DEPARTMENT OF CITYWIDE ADM'] ==> ['12702', '$00K'] (Conf: 58.03% , Supp: 3.27%)
+['DEPARTMENT OF CITYWIDE ADM'] ==> ['12702', '$00K', 'Below 50K'] (Conf: 58.03% , Supp: 3.27%)
+['10251'] ==> ['$30K'] (Conf: 57.27% , Supp: 1.01%)
+['10251'] ==> ['$30K', 'Below 50K'] (Conf: 57.27% , Supp: 1.01%)
+['DEPARTMENT OF CORRECTION'] ==> ['$70K'] (Conf: 57.16% , Supp: 2.24%)
+['DEPARTMENT OF CORRECTION'] ==> ['$70K', 'Above 50K'] (Conf: 57.16% , Supp: 2.24%)
+['DEPARTMENT OF CORRECTION'] ==> ['70410', 'Above 50K'] (Conf: 53.09% , Supp: 2.08%)
+['DEPARTMENT OF CORRECTION'] ==> ['70410', '$70K'] (Conf: 53.09% , Supp: 2.08%)
+['DEPARTMENT OF CORRECTION'] ==> ['70410', '$70K', 'Above 50K'] (Conf: 53.09% , Supp: 2.08%)
+['POLICE DEPARTMENT'] ==> ['Above 50K'] (Conf: 52.39% , Supp: 9.99%)
+['DEPARTMENT OF PARKS & RECR'] ==> ['$00K'] (Conf: 50.08% , Supp: 1.29%)
+['DEPARTMENT OF PARKS & RECR'] ==> ['$00K', 'Below 50K'] (Conf: 50.08% , Supp: 1.29%)
+['POLICE DEPARTMENT'] ==> ['Below 50K'] (Conf: 47.61% , Supp: 9.08%)
+['FIRE DEPARTMENT'] ==> ['70310'] (Conf: 47.36% , Supp: 2.60%)
+['DEPARTMENT OF SANITATION'] ==> ['$60K'] (Conf: 46.55% , Supp: 1.67%)
+['DEPARTMENT OF SANITATION'] ==> ['$60K', 'Above 50K'] (Conf: 46.55% , Supp: 1.67%)
+['DEPARTMENT OF SANITATION'] ==> ['70112', 'Above 50K'] (Conf: 45.66% , Supp: 1.64%)
+['DEPARTMENT OF SANITATION'] ==> ['70112', '$60K'] (Conf: 45.66% , Supp: 1.64%)
+['DEPARTMENT OF SANITATION'] ==> ['70112', '$60K', 'Above 50K'] (Conf: 45.66% , Supp: 1.64%)
+['POLICE DEPARTMENT'] ==> ['70210'] (Conf: 42.47% , Supp: 8.10%)
